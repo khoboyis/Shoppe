@@ -1,0 +1,26 @@
+.jumbotron{
+    background-image: url("C:\Users\admin\Documents\Shoppe\shoppe-app\src\assets\image1.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 210px;
+    padding-left: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    margin-bottom: 0 px;
+    border-radius: 20px;
+    width: 1080px;
+    height: 600px;
+}
+
+.container{
+    position: center;
+    max-width: 1050px;
+    color: white; 
+  }
+  
+ 
+
+ 
+
+ 
