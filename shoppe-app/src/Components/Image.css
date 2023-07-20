@@ -1,5 +1,5 @@
 .jumbotron{
-    background-image: url("C:\Users\admin\Documents\Shoppe\shoppe-app\src\assets\image1.png");
+    background-image: url('../assets/image1.png');
     background-repeat: no-repeat, repeat;
     background-position: center;
     background-size: cover;
